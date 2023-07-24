@@ -84,7 +84,7 @@ main{
     padding: 1em 0;
 }
 
-.card-price h3{
+.card-price h2{
     color:  hsl(158, 36%, 37%);
     font-family: 'Fraunces', serif;
     font-size: 2rem;
